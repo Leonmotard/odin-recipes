@@ -1,0 +1,42 @@
+* {
+    font-family: 'Courier New', monospace;
+    color: chocolate;
+}
+
+.recipes-list {
+    list-style: none;
+    color: black;
+    width: 75%;
+    text-align: center;
+}
+
+p {
+ width: 80%;
+}
+
+h1, h2 {
+    text-align: center;
+    width: 80%;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+ol {
+    width: 80%;
+}
+
+a {
+    text-decoration: none;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
